@@ -1,0 +1,6 @@
+vk_api==11.9.8
+requests==2.26.0
+beautifulsoup4==4.10.0
+simpledemotivators==1.0.5
+gTTS==2.2.3
+wikipedia==1.4.0
